@@ -1,4 +1,4 @@
-Dataset Bias Introduction and Metrics:
+Synthetic Dataset Bias Introduction and Metrics:
 
 Initial Baseline Metrics (Before Bias Introduction):
 Total Average Exam Score: 61.85
